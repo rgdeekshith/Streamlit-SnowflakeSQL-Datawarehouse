@@ -98,3 +98,6 @@ Streamlit will print a local URL (usually http://localhost:8501). Open it in you
 - “Missing Snowflake connection settings”: your `secrets.toml` or env vars are not set.
 - “Object does not exist or not authorized”: your role needs access to the DATAWAREHOUSE schemas/objects.
 - Slow charts: narrow your date range; avoid very large result sets.
+
+## Acknowledgemts/Credits
+I have taken the help of Snowflake’s native AI coding agent designed to streamline data engineering for script design and ensuring the compatibility within the snowflake environment.
