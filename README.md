@@ -103,3 +103,4 @@ Streamlit will print a local URL (usually http://localhost:8501). Open it in you
 I have taken the help of Snowflake’s native AI coding agent designed to streamline data engineering for script design and ensuring the compatibility within the snowflake environment.
 
 **Original repository base:** [sql-data-warehouse-project](https://github.com/rgdeekshith/sql-data-warehouse-project)
+[Snowflake-SQL-Data-Warehouse_project](https://github.com/rgdeekshith/Snowflake-SQL-Data-Warehouse-Project)
