@@ -1,3 +1,7 @@
 streamlit
 pandas
 snowflake-snowpark-python
+
+App builder (Snowsight UI): https://app.snowflake.com/accenturepartnerorg/acn_coco_lab/#/streamlit-apps/DATAWAREHOUSE.GOLD.DATAWAREHOUSE_DASHBOARD
+App viewer (clean view-only): https://app.snowflake.com/streamlit/accenturepartnerorg/acn_coco_lab/#/apps/2sea5g225lrtbhofdgke
+Note: this is for internal/demo (Snowflake login required)
